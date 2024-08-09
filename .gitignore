@@ -1,0 +1,8 @@
+.DS_Store
+*.log
+*.css.d.ts
+*.tsbuildinfo
+.turbo
+dist/
+node_modules/
+manifest.json
